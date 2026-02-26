@@ -12,11 +12,11 @@ const About = () => {
         </h2>
       </div>
       <p className="text-gray-700 leading-relaxed text-base sm:text-lg font-light text-center sm:text-left">
-        Detail-oriented and motivated law graduate with 2 years and 7 months of litigation and legal 
-        advisory experience (from December 2022 to July 2025), specializing in criminal, civil, and 
-        constitutional law. Skilled in legal drafting, client consultation, and courtroom procedure. 
-        Seeking a role in a corporate legal environment to apply my courtroom experience and strong 
-        research capabilities to legal compliance and risk management.
+        Detail-oriented and motivated law graduate with 3+ years of experience in litigation, legal advisory, 
+        and corporate compliance. Currently serving as Legal Advisor at ShadvalPay Private Limited, specializing 
+        in risk & compliance management, regulatory audits, and corporate governance. Previously gained extensive 
+        litigation experience (December 2022 to July 2025) in criminal, civil, and constitutional law matters. 
+        Skilled in legal drafting, client consultation, courtroom procedure, compliance programs, and risk mitigation.
       </p>
     </section>
   );
