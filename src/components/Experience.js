@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 
 const Experience = () => {
   const [expandedItem, setExpandedItem] = useState(null);
-  const [expandedCompany, setExpandedCompany] = useState(null);
   
   const experiences = [
     {
