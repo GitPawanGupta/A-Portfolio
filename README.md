@@ -1,6 +1,6 @@
 # A-Portfolio
 
-A modern, professional portfolio website for Archana Sharma - Legal Professional built with React and Tailwind CSS.
+A modern, professional portfolio website for Rohit Sharma - Legal Professional built with React and Tailwind CSS.
 
 ## 🌟 Features
 
@@ -69,7 +69,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Archana Sharma**
+**Rohit Sharma**
 - Email: adv.sharmaarchana@gmail.com
 - Location: Greater Noida, India
 
