@@ -11,7 +11,7 @@ const Header = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16 lg:py-20 max-w-6xl relative z-10">
         <div className="mb-6 text-center sm:text-left">
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-3 tracking-tight animate-shimmer" style={{fontFamily: "'Playfair Display', serif"}}>
-            Archana Sharma
+            Rohit Sharma
           </h1>
           <div className="h-1 w-24 sm:w-32 bg-gradient-to-r from-blue-400 to-purple-500 rounded-full mb-4 sm:mb-6 animate-pulse mx-auto sm:mx-0"></div>
           <p className="text-lg sm:text-xl md:text-2xl font-light text-blue-100 tracking-wide">Legal Professional | Litigation & Legal Advisory</p>
@@ -30,14 +30,14 @@ const Header = () => {
             <svg className="w-4 h-4 sm:w-5 sm:h-5 text-blue-300 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
             </svg>
-            <span className="font-medium">+91-9643814088</span>
+            <span className="font-medium">+91-9643XXXXXX</span>
           </div>
           
           <div className="flex items-center gap-2 sm:gap-3 bg-white/10 backdrop-blur-sm rounded-full px-4 sm:px-5 py-2.5 sm:py-3 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer">
             <svg className="w-4 h-4 sm:w-5 sm:h-5 text-blue-300 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
             </svg>
-            <span className="font-medium break-all">adv.sharmaarchana@gmail.com</span>
+            <span className="font-medium break-all">adv.sharmarohit@gmail.com</span>
           </div>
         </div>
       </div>
