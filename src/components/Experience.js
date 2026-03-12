@@ -5,7 +5,7 @@ const Experience = () => {
   
   const experiences = [
     {
-      company: "Honda Moter Private Limited",
+      company: "ShadvalPay Private Limited",
       designation: "Legal Advisor",
       period: "July 2025 – Present",
       responsibilities: [
