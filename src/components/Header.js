@@ -11,7 +11,7 @@ const Header = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16 lg:py-20 max-w-6xl relative z-10">
         <div className="mb-6 text-center sm:text-left">
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-3 tracking-tight animate-shimmer" style={{fontFamily: "'Playfair Display', serif"}}>
-            Rohit Sharma
+            Archana Sharma
           </h1>
           <div className="h-1 w-24 sm:w-32 bg-gradient-to-r from-blue-400 to-purple-500 rounded-full mb-4 sm:mb-6 animate-pulse mx-auto sm:mx-0"></div>
           <p className="text-lg sm:text-xl md:text-2xl font-light text-blue-100 tracking-wide">Legal Professional | Litigation & Legal Advisory</p>

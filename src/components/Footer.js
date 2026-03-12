@@ -7,7 +7,7 @@ const Footer = () => {
       
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
         <div className="h-px w-24 sm:w-32 bg-gradient-to-r from-transparent via-blue-400 to-transparent mx-auto mb-4 sm:mb-6"></div>
-        <p className="text-base sm:text-lg lg:text-xl mb-2 sm:mb-3 font-semibold">© 2025 Rohit Sharma. All rights reserved.</p>
+        <p className="text-base sm:text-lg lg:text-xl mb-2 sm:mb-3 font-semibold">© 2025 Archana Sharma. All rights reserved.</p>
         <p className="text-blue-200 font-light text-sm sm:text-base">Legal Professional | Litigation & Advisory Specialist</p>
       </div>
     </footer>
